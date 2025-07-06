@@ -1,8 +1,9 @@
-# Hello World! 🌍
+# Mohamed Karrab
 
-#### I am **Mohamed Karrab**, a Cyber Security Consultant / Penetration Tester. I am passionate about finding vulnerabilities in code and systems.⚡
+#### Cybersecurity Consultant & Penetration Tester
+I break things so others can build them stronger.
 
-- 🔭 I am also currently working on **Alashwas**, a cybersecurity learning platform. 🎯
-- I am looking forward to improving my knowledge and skills in **Penetration Testing** and **Project Management**. 💻
-- **Programming** is also a big passion of mine! I love scripting tools and I am actively developing **Alashwas**.
-- I love reading books 📚, especially on **Finance** and **Personal Development**.
+- Focused on web app hacking, network penetration, and turning code flaws into real-world impact.
+- Always sharpening the edge: scripting tools, automating recon, and more.
+- Led the development of Alashwas — a hands-on cybersecurity learning platform.
+- Outside the keyboard: deep into books on finance, strategy, and personal growth.
